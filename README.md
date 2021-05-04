@@ -1,6 +1,6 @@
 # ZeichenCro
 
-Einfache App zum Zeichenzählen der Texte.
+Einfache App zum Zeichenzählen der Zeichen & Wörter
 <a href="https://raw.githubusercontent.com/UnixCro/ZeichenCro/main/ZeichenCro.zip">Hier zum Download</a> 
 
 ![Bildschirmfoto 2021-05-04 um 10 23 23](https://user-images.githubusercontent.com/70098046/116977487-c85b6d80-acc2-11eb-98e7-18c8ad72c3fb.jpg)
