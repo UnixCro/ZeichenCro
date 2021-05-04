@@ -3,7 +3,7 @@
 Einfache App zum Zeichenzählen der Texte.
 <a href="https://raw.githubusercontent.com/UnixCro/ZeichenCro/main/ZeichenCro.zip">Hier zum Download</a> 
 
-![Bildschirmfoto 2021-05-04 um 10 17 34](https://user-images.githubusercontent.com/70098046/116977009-2cc9fd00-acc2-11eb-81f8-27f6ad46eb2f.jpg)
+![Bildschirmfoto 2021-05-04 um 10 15 32](https://user-images.githubusercontent.com/70098046/116977122-58e57e00-acc2-11eb-8462-65067ce04f46.jpg)
 
 
 
