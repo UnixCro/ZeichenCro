@@ -11,7 +11,7 @@ Einfache App zum Zählen der Zeichen & Wörtern.
 <br> 
 <br>
 
-![Bildschirmfoto 2021-05-04 um 10 18 26](https://user-images.githubusercontent.com/70098046/116977020-32274780-acc2-11eb-92b1-de8afa0208da.jpg)
+![Bildschirmfoto 2021-05-04 um 15 40 09](https://user-images.githubusercontent.com/70098046/117012271-0ec6c180-acef-11eb-87f8-394672d956b0.jpg)
 
 Installation 
 
