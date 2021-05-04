@@ -8,4 +8,5 @@ Einfache App zum Zeichenzählen der Texte.
 
 <br> 
 <br>
+
 ![Bild 2](https://user-images.githubusercontent.com/70098046/116974792-eb841e00-acbe-11eb-93f6-411d8bdbb9c4.jpg)
