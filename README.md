@@ -16,4 +16,4 @@ Einfache App zum Zählen der Zeichen & Wörtern.
 Installation 
 
 
-cd; git clone https://github.com/UnixCro/ZeichenCro.git && cd ZeichenCro && osacompile -o ZeichenCro.app ZeichenZähler.scpt
+`cd; git clone https://github.com/UnixCro/ZeichenCro.git && cd ZeichenCro && osacompile -o ZeichenCro.app ZeichenZähler.scpt`
